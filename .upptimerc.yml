@@ -6,8 +6,6 @@ sites:
       url: https://youdrive.vercel.app/
     - name: Emax-Peluquería
       url: https://emaxpeluqueria.vercel.app/
-    - name: Hacker News
-      url: https://news.ycombinator.com
     - name: Emacommerce API
       url: https://emacommerce.vercel.app/api
     - name: Youdrive API
