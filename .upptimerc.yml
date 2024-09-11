@@ -15,7 +15,7 @@ sites:
     - name: Contact Form API
       url: $CONTACT_FORM_URL
     - name: Contact Form
-      url: $CONTACT_FORM_URL_APP
+      url: https://emacuello-contact.vercel.app/
     - name: Portfolio
       url: https://emacuello-portafolio.vercel.app/
     - name: Link
