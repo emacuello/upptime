@@ -1,7 +1,7 @@
-url: https://app.api-youdrive.duckdns.org/api
+url: $YOUDRIVE_API_URL
 status: up
 code: 200
-responseTime: 5273
-lastUpdated: 2024-09-11T03:15:41.049Z
+responseTime: 9476
+lastUpdated: 2024-09-11T03:59:13.131Z
 startTime: 2024-09-10T17:59:47.115Z
 generator: Upptime <https://github.com/upptime/upptime>
