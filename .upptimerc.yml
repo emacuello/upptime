@@ -7,23 +7,62 @@ sites:
     - name: Emax-Peluquería
       url: https://emaxpeluqueria.vercel.app/
     - name: Emacommerce API
-      url: https://emacommerce.vercel.app/api
+      url: $EMACOMMERCE_API_URL
     - name: Youdrive API
-      url: https://app.api-youdrive.duckdns.org/api
+      url: $YOUDRIVE_API_URL
+    - name: Emax-Peluquería API
+      url: $EMAX_PELUQUERIA_API_URL
+    - name: Contact Form API
+      url: $CONTACT_FORM_URL
+    - name: Contact Form
+      url: $CONTACT_FORM_URL_APP
+    - name: Portfolio
+      url: https://emacuello-portafolio.vercel.app/
+    - name: Link
+      url: https://emacuello.link
+    - name: Emax-Peluquería Shop API
+      url: $EMAX_PELUQUERIA_SHOP_API_URL
+
 
 status-website:
-    # Add your custom domain name, or remove the `cname` line if you don't have a domain
-    # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
     baseUrl: /upptime
-    # baseUrl: /your-repo-name
     logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
     name: Upptime
-    introTitle: '**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub.'
-    introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+    introTitle: 'Estos son los servidores que estoy monitorizando actualmente'
+    introMessage: 'Soy Emanuel Cuello, Backend Developer & SRE. Está es la lista de servidores que actualmente estoy monitorizando con Upptime. Para cualquier consulta, por favor contacta conmigo en <a href="https://emacuello.link">Pagina Web</a> o <a href="https://www.linkedin.com/in/vcuellojrs/">Linkedin</a>.'
     navbar:
         - title: Status
           href: /
         - title: GitHub
           href: https://github.com/$OWNER/$REPO
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+        - title: Linkedin
+          href: https://www.linkedin.com/in/vcuellojrs/
+        - title: Web
+          href: https://emacuello.link
+
+i18n:  
+    history: "Historial"
+    responseTime: "Tiempo de respuesta"
+    uptime: "Uptime"
+    up: "🟩 Up"
+    degraded: "🟨 Degraded"
+    down: "🟥 Down"
+    responseTimeGraphAlt: "Gráfico de tiempo de respuesta"
+    ms: "ms"
+    responseTime: "Tiempo de respuesta"
+    responseTimeDay: "24-hour response time"
+    responseTimeWeek: "7-day response time"
+    responseTimeMonth: "30-day response time"
+    responseTimeYear: "1-year response time"
+    uptime: "All-time uptime"
+    uptimeDay: "24-hour uptime"
+    uptimeWeek: "7-day uptime"
+    uptimeMonth: "30-day uptime"
+    uptimeYear: "1-year uptime"
+    liveStatus: "Live Status"
+    liveStatusHtmlComment: "<!--live status-->"
+    degradedPerformance: "🟨 Degraded performance"
+    completeOutage: "🟥 Complete outage"
+    partialOutage: "🟧 Partial outage"
+    activeIncidents: Incidentes activos
+    allSystemsOperational: Todos los sistemas están operativos
