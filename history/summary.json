@@ -112,19 +112,19 @@
     "url": "$CONTACT_FORM_URL_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "contact-form",
-    "status": "down",
-    "uptime": "44.67%",
-    "uptimeDay": "44.67%",
-    "uptimeWeek": "44.67%",
-    "uptimeMonth": "44.67%",
-    "uptimeYear": "44.67%",
-    "time": 66,
-    "timeDay": 66,
-    "timeWeek": 66,
-    "timeMonth": 66,
-    "timeYear": 66,
+    "status": "up",
+    "uptime": "38.42%",
+    "uptimeDay": "38.42%",
+    "uptimeWeek": "38.42%",
+    "uptimeMonth": "38.42%",
+    "uptimeYear": "38.42%",
+    "time": 90,
+    "timeDay": 90,
+    "timeWeek": 90,
+    "timeMonth": 90,
+    "timeYear": 90,
     "dailyMinutesDown": {
-      "2024-09-11": 57
+      "2024-09-11": 74
     }
   },
   {
