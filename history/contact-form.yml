@@ -1,7 +1,7 @@
 url: $CONTACT_FORM_URL_APP
-status: down
-code: 404
-responseTime: 41
-lastUpdated: 2024-09-11T05:42:12.751Z
+status: up
+code: 200
+responseTime: 211
+lastUpdated: 2024-09-11T05:59:06.573Z
 startTime: 2024-09-11T03:59:19.945Z
 generator: Upptime <https://github.com/upptime/upptime>
