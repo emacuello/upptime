@@ -23,7 +23,6 @@ sites:
     - name: Emax-Peluquería Shop API
       url: $EMAX_PELUQUERIA_SHOP_API_URL
 
-
 status-website:
     baseUrl: /upptime
     logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -40,29 +39,8 @@ status-website:
         - title: Web
           href: https://emacuello.link
 
-i18n:  
-    history: "Historial"
-    responseTime: "Tiempo de respuesta"
-    uptime: "Uptime"
-    up: "🟩 Up"
-    degraded: "🟨 Degraded"
-    down: "🟥 Down"
-    responseTimeGraphAlt: "Gráfico de tiempo de respuesta"
-    ms: "ms"
-    responseTime: "Tiempo de respuesta"
-    responseTimeDay: "24-hour response time"
-    responseTimeWeek: "7-day response time"
-    responseTimeMonth: "30-day response time"
-    responseTimeYear: "1-year response time"
-    uptime: "All-time uptime"
-    uptimeDay: "24-hour uptime"
-    uptimeWeek: "7-day uptime"
-    uptimeMonth: "30-day uptime"
-    uptimeYear: "1-year uptime"
-    liveStatus: "Live Status"
-    liveStatusHtmlComment: "<!--live status-->"
-    degradedPerformance: "🟨 Degraded performance"
-    completeOutage: "🟥 Complete outage"
-    partialOutage: "🟧 Partial outage"
+i18n:
+    history: 'Historial'
+    responseTime: 'Tiempo de respuesta'
     activeIncidents: Incidentes activos
     allSystemsOperational: Todos los sistemas están operativos
