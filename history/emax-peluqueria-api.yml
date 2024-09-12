@@ -1,7 +1,7 @@
 url: $EMAX_PELUQUERIA_API_URL
-status: down
-code: 500
-responseTime: 13336
-lastUpdated: 2024-09-12T19:32:11.391Z
+status: up
+code: 200
+responseTime: 2876
+lastUpdated: 2024-09-12T19:40:07.769Z
 startTime: 2024-09-11T03:59:13.336Z
 generator: Upptime <https://github.com/upptime/upptime>
