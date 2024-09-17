@@ -10,8 +10,10 @@ sites:
       url: $EMACOMMERCE_API_URL
     - name: Youdrive API
       url: $YOUDRIVE_API_URL
-    - name: Emax-Peluquería API
+    - name: Emax-Peluquería API GATEWAY
       url: $EMAX_PELUQUERIA_API_URL
+    - name: Emax-Peluquería API Microservices
+      url: $EMAX_PELUQUERIA_API_URL_MS
     - name: Contact Form API
       url: $CONTACT_FORM_URL
     - name: Contact Form
