@@ -40,18 +40,20 @@
     "url": "$EMACOMMERCE_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emacommerce-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3481,
-    "timeDay": 4708,
-    "timeWeek": 3531,
-    "timeMonth": 3150,
-    "timeYear": 3481,
-    "dailyMinutesDown": {}
+    "time": 3557,
+    "timeDay": 10392,
+    "timeWeek": 5099,
+    "timeMonth": 3554,
+    "timeYear": 3557,
+    "dailyMinutesDown": {
+      "2025-02-15": 0
+    }
   },
   {
     "name": "Youdrive API",
