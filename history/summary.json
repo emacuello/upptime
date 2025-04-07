@@ -13,7 +13,7 @@
     "time": 145,
     "timeDay": 53,
     "timeWeek": 124,
-    "timeMonth": 248,
+    "timeMonth": 255,
     "timeYear": 145,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 116,
     "timeDay": 52,
     "timeWeek": 130,
-    "timeMonth": 109,
+    "timeMonth": 111,
     "timeYear": 116,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 3587,
     "timeDay": 3705,
     "timeWeek": 4591,
-    "timeMonth": 3522,
+    "timeMonth": 3627,
     "timeYear": 3587,
     "dailyMinutesDown": {
       "2025-02-15": 60
@@ -69,7 +69,7 @@
     "time": 3235,
     "timeDay": 3711,
     "timeWeek": 5539,
-    "timeMonth": 3325,
+    "timeMonth": 3399,
     "timeYear": 3235,
     "dailyMinutesDown": {
       "2025-04-06": 27,
@@ -132,7 +132,7 @@
     "time": 1641,
     "timeDay": 1917,
     "timeWeek": 1369,
-    "timeMonth": 1463,
+    "timeMonth": 1507,
     "timeYear": 1641,
     "dailyMinutesDown": {
       "2025-02-11": 16
@@ -152,7 +152,7 @@
     "time": 110,
     "timeDay": 113,
     "timeWeek": 65,
-    "timeMonth": 81,
+    "timeMonth": 82,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2025-02-11": 16
@@ -172,7 +172,7 @@
     "time": 2321,
     "timeDay": 2483,
     "timeWeek": 1667,
-    "timeMonth": 1887,
+    "timeMonth": 1947,
     "timeYear": 2321,
     "dailyMinutesDown": {
       "2024-09-17": 291,
@@ -195,7 +195,7 @@
     "time": 103,
     "timeDay": 56,
     "timeWeek": 104,
-    "timeMonth": 108,
+    "timeMonth": 105,
     "timeYear": 103,
     "dailyMinutesDown": {
       "2024-09-11": 422
@@ -215,7 +215,7 @@
     "time": 830,
     "timeDay": 1391,
     "timeWeek": 815,
-    "timeMonth": 981,
+    "timeMonth": 1008,
     "timeYear": 830,
     "dailyMinutesDown": {}
   },
@@ -233,7 +233,7 @@
     "time": 205,
     "timeDay": 332,
     "timeWeek": 179,
-    "timeMonth": 222,
+    "timeMonth": 226,
     "timeYear": 205,
     "dailyMinutesDown": {}
   },
@@ -242,19 +242,19 @@
     "url": "$EMAX_PELUQUERIA_SHOP_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emax-peluqueria-shop-api",
-    "status": "up",
-    "uptime": "88.90%",
-    "uptimeDay": "82.31%",
-    "uptimeWeek": "82.52%",
-    "uptimeMonth": "33.85%",
-    "uptimeYear": "88.90%",
+    "status": "down",
+    "uptime": "88.91%",
+    "uptimeDay": "83.12%",
+    "uptimeWeek": "82.64%",
+    "uptimeMonth": "34.11%",
+    "uptimeYear": "88.91%",
     "time": 3393,
     "timeDay": 6393,
     "timeWeek": 7232,
     "timeMonth": 6783,
     "timeYear": 3393,
     "dailyMinutesDown": {
-      "2025-04-07": 256,
+      "2025-04-07": 244,
       "2025-04-06": 134,
       "2025-04-05": 101,
       "2025-04-04": 254,
