@@ -64,7 +64,7 @@
     "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.38%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.23%",
     "time": 3277,
     "timeDay": 6067,
@@ -242,15 +242,15 @@
     "url": "$EMAX_PELUQUERIA_SHOP_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emax-peluqueria-shop-api",
-    "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "71.59%",
-    "uptimeWeek": "79.90%",
-    "uptimeMonth": "92.35%",
-    "uptimeYear": "98.93%",
+    "status": "down",
+    "uptime": "98.94%",
+    "uptimeDay": "71.57%",
+    "uptimeWeek": "79.94%",
+    "uptimeMonth": "92.39%",
+    "uptimeYear": "98.94%",
     "time": 4253,
-    "timeDay": 8927,
-    "timeWeek": 6229,
+    "timeDay": 9463,
+    "timeWeek": 6288,
     "timeMonth": 6582,
     "timeYear": 4253,
     "dailyMinutesDown": {
@@ -267,7 +267,7 @@
       "2025-04-07": 244,
       "2025-04-06": 134,
       "2025-04-05": 101,
-      "2025-04-04": 178
+      "2025-04-04": 162
     }
   }
 ]
