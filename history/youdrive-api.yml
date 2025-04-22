@@ -1,7 +1,7 @@
 url: $YOUDRIVE_API_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-22T15:49:03.814Z
+status: up
+code: 200
+responseTime: 4062
+lastUpdated: 2025-04-22T15:56:50.572Z
 startTime: 2024-09-10T17:59:47.115Z
 generator: Upptime <https://github.com/upptime/upptime>
