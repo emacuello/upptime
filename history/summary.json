@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 132,
-    "timeWeek": 225,
-    "timeMonth": 288,
+    "timeDay": 214,
+    "timeWeek": 213,
+    "timeMonth": 166,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 121,
-    "timeWeek": 111,
-    "timeMonth": 123,
+    "timeDay": 120,
+    "timeWeek": 106,
+    "timeMonth": 124,
     "timeYear": 116,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 3632,
-    "timeDay": 3528,
-    "timeWeek": 3065,
-    "timeMonth": 3997,
-    "timeYear": 3632,
+    "time": 3635,
+    "timeDay": 4184,
+    "timeWeek": 3876,
+    "timeMonth": 4006,
+    "timeYear": 3635,
     "dailyMinutesDown": {
       "2025-02-15": 60
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.26%",
-    "time": 3313,
-    "timeDay": 6288,
-    "timeWeek": 5167,
-    "timeMonth": 4743,
-    "timeYear": 3313,
+    "time": 3315,
+    "timeDay": 6295,
+    "timeWeek": 4993,
+    "timeMonth": 4853,
+    "timeYear": 3315,
     "dailyMinutesDown": {
       "2025-04-06": 27,
       "2025-04-02": 105,
@@ -129,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1639,
-    "timeDay": 1677,
-    "timeWeek": 1436,
-    "timeMonth": 1521,
-    "timeYear": 1639,
+    "time": 1640,
+    "timeDay": 1968,
+    "timeWeek": 1776,
+    "timeMonth": 1525,
+    "timeYear": 1640,
     "dailyMinutesDown": {
       "2025-02-11": 16
     }
@@ -149,11 +149,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 40,
-    "timeWeek": 57,
-    "timeMonth": 77,
-    "timeYear": 106,
+    "time": 107,
+    "timeDay": 128,
+    "timeWeek": 68,
+    "timeMonth": 78,
+    "timeYear": 107,
     "dailyMinutesDown": {
       "2025-02-11": 16
     }
@@ -170,9 +170,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.61%",
     "time": 2305,
-    "timeDay": 2318,
-    "timeWeek": 1915,
-    "timeMonth": 1893,
+    "timeDay": 2428,
+    "timeWeek": 2350,
+    "timeMonth": 1900,
     "timeYear": 2305,
     "dailyMinutesDown": {
       "2024-09-17": 291,
@@ -193,9 +193,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 105,
-    "timeDay": 83,
-    "timeWeek": 161,
-    "timeMonth": 124,
+    "timeDay": 105,
+    "timeWeek": 165,
+    "timeMonth": 125,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2024-09-11": 422
@@ -212,11 +212,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 841,
-    "timeDay": 1257,
-    "timeWeek": 858,
-    "timeMonth": 938,
-    "timeYear": 841,
+    "time": 844,
+    "timeDay": 1522,
+    "timeWeek": 1115,
+    "timeMonth": 946,
+    "timeYear": 844,
     "dailyMinutesDown": {}
   },
   {
@@ -231,9 +231,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 166,
-    "timeWeek": 202,
-    "timeMonth": 197,
+    "timeDay": 306,
+    "timeWeek": 219,
+    "timeMonth": 202,
     "timeYear": 205,
     "dailyMinutesDown": {}
   },
@@ -242,15 +242,15 @@
     "url": "$EMAX_PELUQUERIA_SHOP_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emax-peluqueria-shop-api",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "79.01%",
-    "uptimeWeek": "77.21%",
-    "uptimeMonth": "92.43%",
-    "uptimeYear": "98.98%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "78.99%",
+    "uptimeWeek": "77.20%",
+    "uptimeMonth": "92.58%",
+    "uptimeYear": "99.00%",
     "time": 4468,
-    "timeDay": 3531,
-    "timeWeek": 4821,
+    "timeDay": 3746,
+    "timeWeek": 4860,
     "timeMonth": 6207,
     "timeYear": 4468,
     "dailyMinutesDown": {
@@ -263,7 +263,7 @@
       "2025-04-18": 248,
       "2025-04-17": 413,
       "2025-04-16": 347,
-      "2025-04-15": 260
+      "2025-04-15": 193
     }
   }
 ]
