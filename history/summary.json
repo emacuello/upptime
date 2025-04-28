@@ -244,17 +244,17 @@
     "slug": "emax-peluqueria-shop-api",
     "status": "up",
     "uptime": "98.92%",
-    "uptimeDay": "82.74%",
-    "uptimeWeek": "76.99%",
-    "uptimeMonth": "91.91%",
+    "uptimeDay": "86.79%",
+    "uptimeWeek": "77.28%",
+    "uptimeMonth": "91.88%",
     "uptimeYear": "98.92%",
     "time": 4614,
     "timeDay": 6222,
-    "timeWeek": 5776,
+    "timeWeek": 5821,
     "timeMonth": 6247,
     "timeYear": 4614,
     "dailyMinutesDown": {
-      "2025-04-27": 249,
+      "2025-04-27": 243,
       "2025-04-26": 246,
       "2025-04-25": 504,
       "2025-04-24": 302,
@@ -264,7 +264,7 @@
       "2025-04-20": 181,
       "2025-04-19": 550,
       "2025-04-18": 248,
-      "2025-04-17": 246
+      "2025-04-17": 264
     }
   }
 ]
