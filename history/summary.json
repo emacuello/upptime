@@ -13,7 +13,7 @@
     "time": 150,
     "timeDay": 167,
     "timeWeek": 246,
-    "timeMonth": 174,
+    "timeMonth": 177,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 118,
     "timeDay": 132,
     "timeWeek": 175,
-    "timeMonth": 131,
+    "timeMonth": 132,
     "timeYear": 118,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 4087,
     "timeDay": 228,
     "timeWeek": 5531,
-    "timeMonth": 6242,
+    "timeMonth": 6285,
     "timeYear": 4087,
     "dailyMinutesDown": {
       "2025-06-05": 18,
@@ -70,15 +70,15 @@
     "uptime": "91.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "46.65%",
+    "uptimeMonth": "46.58%",
     "uptimeYear": "91.73%",
     "time": 3183,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1551,
+    "timeMonth": 1534,
     "timeYear": 3183,
     "dailyMinutesDown": {
-      "2025-06-10": 1367,
+      "2025-06-10": 1397,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
@@ -162,7 +162,7 @@
     "time": 1634,
     "timeDay": 187,
     "timeWeek": 1355,
-    "timeMonth": 1544,
+    "timeMonth": 1539,
     "timeYear": 1634,
     "dailyMinutesDown": {
       "2025-02-11": 16
@@ -182,7 +182,7 @@
     "time": 103,
     "timeDay": 93,
     "timeWeek": 92,
-    "timeMonth": 88,
+    "timeMonth": 89,
     "timeYear": 103,
     "dailyMinutesDown": {
       "2025-02-11": 16
@@ -202,7 +202,7 @@
     "time": 2267,
     "timeDay": 170,
     "timeWeek": 1746,
-    "timeMonth": 2041,
+    "timeMonth": 2017,
     "timeYear": 2267,
     "dailyMinutesDown": {
       "2024-09-17": 291,
@@ -225,7 +225,7 @@
     "time": 108,
     "timeDay": 116,
     "timeWeek": 160,
-    "timeMonth": 127,
+    "timeMonth": 128,
     "timeYear": 108,
     "dailyMinutesDown": {
       "2024-09-11": 422
@@ -245,7 +245,7 @@
     "time": 860,
     "timeDay": 222,
     "timeWeek": 1103,
-    "timeMonth": 994,
+    "timeMonth": 990,
     "timeYear": 860,
     "dailyMinutesDown": {}
   },
@@ -263,7 +263,7 @@
     "time": 209,
     "timeDay": 151,
     "timeWeek": 200,
-    "timeMonth": 234,
+    "timeMonth": 229,
     "timeYear": 209,
     "dailyMinutesDown": {}
   },
@@ -272,19 +272,19 @@
     "url": "$EMAX_PELUQUERIA_SHOP_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emax-peluqueria-shop-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "89.86%",
-    "uptimeWeek": "88.27%",
-    "uptimeMonth": "92.20%",
+    "uptimeDay": "90.72%",
+    "uptimeWeek": "88.42%",
+    "uptimeMonth": "92.23%",
     "uptimeYear": "99.13%",
     "time": 6182,
     "timeDay": 7655,
-    "timeWeek": 8622,
+    "timeWeek": 8741,
     "timeMonth": 7740,
     "timeYear": 6182,
     "dailyMinutesDown": {
-      "2025-06-10": 147,
+      "2025-06-10": 134,
       "2025-06-09": 118,
       "2025-06-08": 79,
       "2025-06-07": 176,
