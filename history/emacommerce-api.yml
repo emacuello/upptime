@@ -1,7 +1,7 @@
 url: $EMACOMMERCE_API_URL
-status: down
-code: 500
-responseTime: 14402
-lastUpdated: 2025-06-26T13:20:02.154Z
+status: up
+code: 200
+responseTime: 3721
+lastUpdated: 2025-06-26T13:46:27.878Z
 startTime: 2024-09-10T17:59:43.099Z
 generator: Upptime <https://github.com/upptime/upptime>
