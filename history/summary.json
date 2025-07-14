@@ -71,18 +71,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "youdrive-api",
     "status": "down",
-    "uptime": "81.73%",
+    "uptime": "81.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "81.73%",
+    "uptimeYear": "81.72%",
     "time": 3183,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3183,
     "dailyMinutesDown": {
-      "2025-07-14": 578,
+      "2025-07-14": 613,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -310,16 +310,16 @@
     "url": "$EMAX_PELUQUERIA_SHOP_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emax-peluqueria-shop-api",
-    "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "75.58%",
+    "status": "down",
+    "uptime": "99.09%",
+    "uptimeDay": "75.56%",
     "uptimeWeek": "82.08%",
-    "uptimeMonth": "90.66%",
-    "uptimeYear": "99.07%",
+    "uptimeMonth": "90.84%",
+    "uptimeYear": "99.09%",
     "time": 6929,
     "timeDay": 8558,
     "timeWeek": 10342,
-    "timeMonth": 9561,
+    "timeMonth": 9589,
     "timeYear": 6929,
     "dailyMinutesDown": {
       "2025-07-14": 333,
@@ -336,7 +336,7 @@
       "2025-07-03": 193,
       "2025-07-02": 310,
       "2025-07-01": 359,
-      "2025-06-30": 347
+      "2025-06-30": 272
     }
   }
 ]
