@@ -84,7 +84,7 @@
     "timeMonth": 0,
     "timeYear": 3183,
     "dailyMinutesDown": {
-      "2025-08-06": 122,
+      "2025-08-06": 124,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -343,8 +343,8 @@
     "slug": "emax-peluqueria-shop-api",
     "status": "down",
     "uptime": "99.03%",
-    "uptimeDay": "71.06%",
-    "uptimeWeek": "71.01%",
+    "uptimeDay": "70.90%",
+    "uptimeWeek": "70.98%",
     "uptimeMonth": "89.51%",
     "uptimeYear": "99.03%",
     "time": 7559,
@@ -353,7 +353,7 @@
     "timeMonth": 10906,
     "timeYear": 7559,
     "dailyMinutesDown": {
-      "2025-08-06": 0,
+      "2025-08-06": 3,
       "2025-08-05": 416,
       "2025-08-04": 639,
       "2025-08-03": 442,
