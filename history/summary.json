@@ -73,18 +73,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "youdrive-api",
     "status": "down",
-    "uptime": "73.64%",
+    "uptime": "73.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.64%",
+    "uptimeYear": "73.63%",
     "time": 3183,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3183,
     "dailyMinutesDown": {
-      "2025-08-17": 121,
+      "2025-08-17": 200,
       "2025-08-16": 1440,
       "2025-08-15": 1440,
       "2025-08-14": 1440,
@@ -335,18 +335,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/emacuello.link.ico",
     "slug": "link",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "93.92%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.98%",
     "time": 212,
     "timeDay": 138,
     "timeWeek": 185,
     "timeMonth": 222,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-08-17": 8
+      "2025-08-17": 88
     }
   },
   {
@@ -354,18 +354,19 @@
     "url": "$EMAX_PELUQUERIA_SHOP_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "emax-peluqueria-shop-api",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "91.89%",
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "95.52%",
     "uptimeWeek": "85.90%",
-    "uptimeMonth": "90.36%",
-    "uptimeYear": "99.14%",
+    "uptimeMonth": "90.87%",
+    "uptimeYear": "99.18%",
     "time": 7679,
     "timeDay": 14561,
     "timeWeek": 8827,
-    "timeMonth": 10768,
+    "timeMonth": 10739,
     "timeYear": 7679,
     "dailyMinutesDown": {
+      "2025-08-17": 0,
       "2025-08-16": 117,
       "2025-08-15": 269,
       "2025-08-14": 44,
@@ -379,7 +380,7 @@
       "2025-08-06": 545,
       "2025-08-05": 416,
       "2025-08-04": 639,
-      "2025-08-03": 442
+      "2025-08-03": 222
     }
   }
 ]
