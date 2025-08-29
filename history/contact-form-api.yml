@@ -1,7 +1,7 @@
 url: $CONTACT_FORM_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-29T14:35:12.089Z
+status: up
+code: 200
+responseTime: 2510
+lastUpdated: 2025-08-29T14:45:32.179Z
 startTime: 2024-09-11T03:59:16.760Z
 generator: Upptime <https://github.com/upptime/upptime>
